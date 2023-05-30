@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -21,6 +20,7 @@
 	<div class="container panel panel-warning">
 		<h3 class="panel-heading"></h3>
 		<p>되는지 확인 해주기!</p>
+		<p>나형나형</p>
 	</div>
 </body>
 </html>
