@@ -21,7 +21,7 @@
 	<div class="container panel panel-warning">
 		<h3 class="panel-heading"></h3>
 		<p>되는지 확인 해주기!</p>
-		<p> CHY 확인 </p>
+		<p> CHY 확인. </p>
 	</div>
 </body>
 </html>
